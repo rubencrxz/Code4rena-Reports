@@ -12,4 +12,4 @@ Here I collect my audits reports and findings for different protocols audited in
 
 - 🐉 Hybra Finance (AMM): https://github.com/rubencrxz/Hybra-Finance
 
-- 
+- SukukFi: 
